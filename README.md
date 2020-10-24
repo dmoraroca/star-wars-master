@@ -48,3 +48,5 @@ Tienes potestad para cambiar lo que quieras pero se deben cumplir unos mínimos.
 * <pre><code> npm install webpack-dev-server -g </code></pre>
 * Para ejecutar:
 * <pre><code> webpack-dev-server </code></pre>
+
+inicio en develop
